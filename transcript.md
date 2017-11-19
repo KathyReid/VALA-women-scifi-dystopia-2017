@@ -190,36 +190,64 @@ But perhaps I'm being unfair. I mean, with women making up between a quarter to 
 
 Interesting footnote to this story - it was later revealed that these guys had a very, how do I say it, slightly off kilter worldview when blog posts showed them referring to females as "toxic women". Oh, buckle up sunshine, I'm just starting to get my toxic on :-)
 
+_Remember - dystopia is always closer than we imagine it to be_
 
+Back to women and artificial intelligence.
 
+SLIDE: Wired cover - Machines taught by photos learn a sexist view of women
 
+There's another problem with diversity and artificial intelligence.
 
+When neural networks - the data structures that artificial intelligences learn from - are trained, they are trained on _retrospective_ data. That is, they learn from data that has already been created. For example, if you train an AI on photos from the 1960s to the 1990s to make associations between occupations and gender, then it starts to make inferences like:
 
+* "man" is associated with "computer programmer"
+* while "woman" is associated with "homemaker"
 
+So if you then use that dataset for _predictive_ purposes, you're perpetuating those biases.
 
+### AI and Robots - what can we do to change?
 
-Robots and artificial intelligence have been a mainstay of science fiction for over two centuries, from Mary Wollstonecraft Shelley's 'Frankenstein', Fritz LANG's 'Maria' of 'Metropolis' fame.
+So what choices do we have here?
 
----
+Firstly, I'd like to see a lot more gender diversity in how artificial intelligences are represented - what voices they're given, what physical forms they're given. We have some ability to change defaults at the moment - so it's actually possible to configure your iPhone to give Siri a male voice, or configure Google Assistant - but how many of you actually change defaults on your phone? Sara Wachter-Boettcher in her new book 'Toxic Tech' goes into a lot more detail around this - but essentially the defaults in applications are set to evoke the behaviour that the company wants from the user - which is not necessarily in the user's best interest.
 
+Secondly, and I think more importantly - we need to consider what datasets we're training our artificial intelligences on. We need to critically question and evaluate how artificial intelligences are being trained - and what they're being trained on. And if we had better diversity in the industry - more women and other genders - better racial diversity - that will be more likely to happen.
 
+As Librarians and information professionals, you all have a critical role to play here. Your knowledge of datasets, of metadata classifications, taxonomies, of research and specalist areas - can help inform how that data and information is ingested by AIs.
 
+## Robots
 
+Robots have been a mainstay of science fiction for over two centuries, from Mary Wollstonecraft Shelley's 'Frankenstein', Fritz LANG's 'Maria' of 'Metropolis' fame to present-day counterparts - the replicants in 'Bladerunner' and the hosts in 'West World'.
 
-Bladerunner
-West world
+SLIDE - Japanese robot host at Robot Hotel
+
+And again we see certain trends that affect women. If robots are given a gender, and they're female, then they are most often seen in subserviant type roles. They are robotic hostesses in a Japanese Robot Hotel. Rosie the Maid from the Jetsons. Or they're sex bots, intended to serve in other ways. Or they're freaky monsters, like the Borg Queen. Or in 7 of 9's case, a freaky monster and a sex symbol.
+
+But the message is clear - if a robot has a gender, and she's female, her role is to serve others - usually men.
+
+Contrast this with savvy and smart personality of the robots TARS and CASE in 'Interstellar', the affable and goofy Johnny 5 in 'Short Circuit', the sarcastic and alcoholic Bender of 'Futurama', the laughable cowardice of C3-PO. These are much more complete characters - characters with depth, and personality - much more than functional ornaments.
+
+And this again mirrors a theme that's relevant to women in technology.
+
+SLIDE: You can't be what you can't see
+
+You can't be what you can't see.
+
+When we talk about the pipeline of attracting and retaining women in technical roles, we lament a lack of role models for women earlier in the pipeline to look up to and to emulate. And we've seen earlier in this talk how Silicon Valley has a lack of female representation. This theme echoes again here - if the technology industry isn't exposed to more women in a more diverse range of roles, those representations are not going to be reflected back into technology - back into how robots or androids are created.
+
+Here, we need to consider how women are represented in technology - and critically examine whether we're being represented truthfully. We need to take more control of the narrative around how we're represented - and we can only do that if we're in the driver's seat of technology - which of course means that we need more women in technology in the first place!
+
+Again, as Librarians and information professionals, you all have a critical role to play here. Why? Because you work in technology, and you will be role models for the clients and patrons that you meet.
+
+"Look Mummy at the lady who's using the computer to search information for us!"
+"Look Daddy at the lady who's helping me use the computer to draw"
+
 
 ## THEME - Censorship and mass surveillance
 
 Fahrenheit 451
-
-## THEME - Totalitarianism and the loss of democracy
-
-
-
-
-
-
+1984
+Robodebt
 
 ## Idolatry and celebrity
 
@@ -237,13 +265,14 @@ https://www.youtube.com/watch?v=sQ6_fOX7ITQ
 
 ## Conclusion
 
-In conclusion, librarians - as keepers of the truth, custodians of artefacts that belie and document our history - sit at the vanguard against dystopia.
+In conclusion, we've seen throughout this talk that as science fiction increasingly becomes science fact, that dystopia is not relegated to the dusty pages of a tome, but is an ever-present danger. Dystopia is always closer than you think.
+
+Yet, there are many things we can do to keep dystopia at bay, particularly where that dystopia involves the under-representatin or under-valuing of women.
+
+As we've seen, Librarians and information professionals sit as keepers of the truth, partners in educating the next generation, discoverers of data on which AIs *should* be trained, custodians of artefacts that belie and document our history - you stand as the vanguard against dystopia.
 
 You buffer the digitally disadvantaged from an era where access to services, to information and to resources is brokered entirely online -requiring new literacies to navigate.
 
-In the words of perhaps the most famous science fiction princess of all time
+To paraphrase the words of perhaps the most famous science fiction princess of all, I say to you:
 
-Save us, Obi-wan kenobi, you're our only hope.
-
-Various themes of dystopia are reflected in science fiction
-Dystopias are of our own making
+"Save us, librarians. You're our only hope."
