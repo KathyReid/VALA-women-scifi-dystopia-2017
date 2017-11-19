@@ -122,13 +122,13 @@ body {
 
 
 q {
-  font-weight: 200;
-  font-size: 200%;
+  font-weight: 500;
+  font-size: 220%;
   text-align: center;
   padding: 15% 10% 10% 10%;
-  color: #00F8C2;
+  color: #ff0000;
   display: block;
-  line-height: 150%;
+  line-height: 120%;
 }
 
 .white {
@@ -144,7 +144,8 @@ q::after {
 }
 
 q::before, q::after {
-  color: black;
+  color: #ffc100;
+  font-size: 120%;
 }
 
 /*
@@ -519,7 +520,12 @@ h3 {
 
 .left {
   float: left;
-  margin: 0 0% 0.5% 5%;
+  margin: 0 0 0.5% 5%;
+}
+
+.right {
+  float: right;
+  margin: 0 5% 0.5% 0%;
 }
 
 .black {
@@ -568,13 +574,10 @@ h3 {
   background: url(../img/percentage-graduates-high-income.png) no-repeat center bottom fixed;
 }
 
-#Mapping {
-  background: url(../img/geemap-nodelink-mapping.png) no-repeat center center fixed;
+#DigitalInclusion {
+  background: url(../img/digital-inclusion-male-female.png) no-repeat center center fixed;
 }
 
-#PackedCircles {
-  background: url(../img/packed-circles.png) no-repeat bottom center fixed;
-}
 
 #ConcentricCircles {
   background: url(../img/concentric-circles.png) no-repeat center center fixed;
