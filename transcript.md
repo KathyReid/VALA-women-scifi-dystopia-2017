@@ -1,6 +1,20 @@
 
 # Women, dystopia, science fiction and you
 
+- [Women, dystopia, science fiction and you](#women-dystopia-science-fiction-and-you)
+  * [Opening gambit](#opening-gambit)
+    + [Imagine a dystopia](#imagine-a-dystopia)
+    + [Framework of this talk - dystopia are themes taken to the extreme](#framework-of-this-talk---dystopia-are-themes-taken-to-the-extreme)
+  * [THEME - Fertility](#theme---fertility)
+    + [Fertility - what can we do about it?](#fertility---what-can-we-do-about-it)
+  * [THEME - Literacy as a tool of oppression or empowerment](#theme---literacy-as-a-tool-of-oppression-or-empowerment)
+  * [THEME - Robots and artificial intelligence](#theme---robots-and-artificial-intelligence)
+    + [AI and Robots - what can we do to change?](#ai-and-robots---what-can-we-do-to-change)
+  * [Robots](#robots)
+  * [THEME - Censorship and mass surveillance](#theme---censorship-and-mass-surveillance)
+  * [Idolatry and celebrity](#idolatry-and-celebrity)
+  * [Conclusion](#conclusion)
+
 ## Opening gambit
 
 Good evening everyone. Most people would run screaming at the thought of spending an evening listening to a self-confessed nerd talk about science fiction, so thank you again for coming tonight.
