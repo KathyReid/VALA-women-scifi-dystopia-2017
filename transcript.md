@@ -25,7 +25,7 @@ You might have imagined a society where systemic barriers prevent significant co
 
 You might have imagined a world where advances in artificial intelligence, machine learning and natural language processing continue apace, with scant little rigourous thinking around issues of machine ethics, and how society should explore this new frontier safely. Robots - electronic reflections of ourselves - have the power to reflect both the best - and the very worst of humanity.
 
-DYSTOPIA IS MUCH NEARER THAN WE OFTEN IMAGINE
+EVERYONE, DYSTOPIA IS MUCH NEARER THAN WE OFTEN IMAGINE
 
 (Pause)
 
@@ -43,7 +43,9 @@ Down the rabbit hole we go ...
 
 Fertility and reproduction are cornerstones of science fiction literature.
 
-Alfonso Cuarón's 2006 dystopian thriller 'Children of Men' takes this to several extremes - the human race's ability to reproduce has been severely inhibited by unknown factors, setting the scene for the desperate liberation of the first pregnant woman the world has seen in nearly two decades, against the backdrop of a refugee and immigration crisis. The irony of the world's only pregnant woman being of African descent is not accidental.
+SLIDE: Children of Men
+
+Alfonso Cuarón's 2006 dystopian thriller 'Children of Men' takes this to several extremes - the human race's ability to reproduce has been severely inhibited by unknown factors, setting the scene for the desperate liberation of the first pregnant woman the world has seen in nearly two decades, against the backdrop of a refugee and immigration crisis. The irony of the world's only pregnant woman being a refugee is not coincidental.
 
 The spine-chilling series based on Margaret ATWOOD's 'Handmaid's Tale' via Hulu kicks the terror up a notch further, combining widespread infertility with the rise to power of theocratic, totalitarian right wing government with a penchant for oppressing women through not only violence, but the removal of their literacy.
 
@@ -95,7 +97,8 @@ SLIDE: Skills shortages
 
 At the same time, the IT industry faces difficulty in recruiting for certain roles - often niche roles that require significant specialist knowledge like data science, artificial intelligence, user experience. It's absurd that the industry makes it harder, not easier to attract more women - why on earth would you want to reduce the candidate pool you're recruiting from by half?
 
-So, creating flexible workplaces - allowing women to balance competing demands of child-raising, care and employment - something Libraries have traditionally done well -  is one step away from dystopia.
+So, creating flexible workplaces - allowing women to balance competing demands of child-raising, care and employment - something Libraries have traditionally done well -  is moving one step away from dystopia.
+
 
 ## THEME - Literacy as a tool of oppression or empowerment
 
@@ -103,8 +106,9 @@ There's another - very confronting dystopian theme in Margaret ATWOOD's 'Handmai
 
 In the world of the Republic of Gilead, women are forbidden from reading. Literacy is used as a tool of oppression. We've seen parallels of this throughout history - reading and writing were originally a skill of only priests and upper-class people. If a culture didn't have written traditions - like many Australian Indigenous cultures - it was considered inferior.
 
+SLIDE: Adult literacy in Australia
+
 Thankfully today Australia's literacy rate is reasonably healthy - although we do have some challenges with adult literacy in certain cohorts, such as those for whom English is a second language, and those who left school before Year 12.
-http://www.abs.gov.au/AUSSTATS/abs@.nsf/Lookup/4102.0Chapter6102008
 
 So again, what does this have to do with Women in IT?
 
@@ -116,7 +120,7 @@ In 2017, Telstra, in partnership with RMIT and Swinburne, released the 2017 edit
 * affordability - what the price point of internet access is, relative to household income
 * digital ability - and the capabilities of people once they have internet access
 
-The report, unsurprisingly, pulled no punches. It showed that overal, Australia's digital inclusion is growing. But the gap between the digital capable and those less capable - the **digital divide** - is also growing.
+The report, unsurprisingly, pulled no punches. It showed that overall, Australia's digital inclusion is growing. But the gap between the digital capable and those less capable - the **digital divide** - is also growing.
 
 And that's worrying for a number of reasons. Firstly, access to many government services is now digitally based, and more and more services are going online over time. If you don't have strong digital ability, it's more difficult to access the services, that paradoxically, you're more in need of. How many of you in public libraries are now spending a lot of time with people who need help navigating the online web portals of government services? How well are those services designed? A cynic might say that they've deliberately been designed that way to provide a barrier to entry. _Remember, dystopia is always closer than we imagine it to be_.
 
@@ -124,6 +128,67 @@ Secondly, the **digital divide** is worrying because those people who don't have
 
 SLIDE: Males vs female digital Inclusion
 
+And while most of that male/female divide is found in older groups, there's still a marginal difference in younger age cohorts. And you can see how this compounds the women in IT problem. If younger women have lower digital literacy, they're going to be less likely to not only pursue IT and technical careers, but also less likely to have the skills and aptitude to be successful in those careers.
+
+So, again, what can we do about this?
+
+Libraries are incredibly well positioned to play a role in improving this situation. Many public libraries already have dedicated digital inclusion programs for specific cohorts - seniors, migrants and so on. Public libraries generally also have strong internet - helping to address the _access_ part of the equation. Indeed, Libraries are one of the strongest buffers **against** the growing Digital Divide.
+
+But what happens when the Library isn't open? What happens on the evenings or on weekends? One of the the challenges facing Libraries is how to extend hours and scope of service while constraining costs. And I can see a number of opportunities here. While it may be costly to open buildings for extended hours, it's often possible to make infrastructure such as wireless access available in the vicinity of a building - 24 hours, 7 days a week.
+
+But **access** isn't enough - people also need to be equipped with the **ability** to use digital technology. And I'm incredibly heartened by libraries partnering with groups like Code Camp to deliver programming training to children during school holidays - although again this is a paid activity and due to financial circumstances, some kids won't be able to participate. Perhaps those kids instead can use the free library internet to use platforms like Khan Academy and Codeacademy instead.
+
+But again, it's another step away from dystopia.
+
+So, what other themes appear in science fiction and how do they relate to women in IT?
+
+## THEME - Robots and artificial intelligence
+
+SLIDE: Header - Robots and artificial intelligence
+
+Related to digital inclusion, and provision of education, I'd like to take us into the theme of artificial intelligence and robots by spending a few moments talking about one of my favourite books - a book that served when I was younger - to inspire me to a career in technology.
+
+SLIDE: Neal Stephenson's Diamond Age - a Young Lady's illustrated primer
+
+In Neal Stephenson's Diamond Age, society is distinctly stratified. Upper class children are educated by artificial intelligences that grow with them, nurturing and educating them. The female protagonist of the novel, Nell, is from the lower classes, and her brother steals one of these AIs. Through the coaching, guidance and education provided by the AI - the 'Young Lady's Illustrated Primer', Nell learns to challenge the status quo, and develops into a formidable leader of society.
+
+But wait - that sounds almost Utopian! Isn't this a talk about **dystopia**?
+
+Well, the AI-nurturing-the-little-girl part is pretty heartening, but it's set against a backdrop of feudal warfare, stark social inequities and drug-resistant tuberculosis is a leading cause of death - so don't worry, it still ticks the "dystopia" boxes!
+
+In 'The Diamond Age', we see artificial intelligence used as a force for good. But science fiction doesn't always represent AI in a positive light.
+
+SLIDE: Kubrick, HAL 2001 A Space Odyssey
+
+Take KUBRICK's '2001: A Space Odyssey' for example - we see the the recalcitrant and disobedient artificial intelligence HAL 9000 that famously won't open the pod bay doors for astronaut Dave. It's pretty scary stuff.
+
+SLIDE: Ex Machina
+
+But if that was scary, 2015's 'Ex Machina' was terrifying. With the body of a super model and the razor sharp mind of an AI, Ava was at once beautiful, vulnerable and expertly manipulative. Of course, as a _female_ evil robot, she used her feminine wiles to deceive her Maker, and eventually, escape.
+
+Which leads us to a discussion of how females are represented in artificial intelligence and robotics.
+
+Does anyone here have an iPhone? Do you use Siri? Or Google Assistant? Or Amazon Alexa? Have you ever wondered why the voice in voice assistants is always female?
+
+SLIDE: Sexism in voice assistants
+
+Basically it comes down to sexism. _Quelle surprise_
+
+It turns out that we're conditioned to be more comfortable with female voices, we respond more warmly to them; we're more likely to invite them into our home, and into our wireless networks than male voices. And if you're a multinational mega-corporation like Amazon or Google, your objective is to sell as many of these voice assistants as possible, and have them in homes everywhere, and giving them female voices helps you do that.
+
+It's somewhat ironic then that these very companies - who use feminine voices to sell and market products - have very few internal feminine voices within their organisations.
+
+SLIDE: Silicon valley representation of women
+
+Silicon Valley has a significant issue with representation of women and other non-male genders - and I apologise that this graphic is gender binary. This has been a long-standing issue, despite efforts from all the major players to hire more women. Given the ping-pong tables, the endlessly stocked beer fridges and morning teas and fun activities, I can't imagine why women aren't flocking in droves to be part of Valley life.
+
+Something to do with not being able to work from home perhaps?
+
+SLIDE: Nomadic Thinkers - the bro-working space
+
+But perhaps I'm being unfair. I mean, with women making up between a quarter to a third of the IT workforce, I'm sure there are some men who feel very vulnerable and threatened by such an overwhelming majority. Like these bro-dudes from Brisbane - maybe they had too much sun, who knows - who wanted to start a men-only co-work space. That's right, a **bro-work space**. Because if it's one thing women need in technology and startups, it's more exclusively male places that they're forbidden from.
+
+Interesting footnote to this story - it was later revealed that these guys had a very, how do I say it, slightly off kilter worldview when blog posts showed them referring to females as "toxic women". Oh, buckle up sunshine, I'm just starting to get my toxic on :-)
 
 
 
@@ -133,15 +198,25 @@ SLIDE: Males vs female digital Inclusion
 
 
 
+Robots and artificial intelligence have been a mainstay of science fiction for over two centuries, from Mary Wollstonecraft Shelley's 'Frankenstein', Fritz LANG's 'Maria' of 'Metropolis' fame.
+
+---
 
 
 
 
 
+Bladerunner
+West world
 
-Mass surveillance
+## THEME - Censorship and mass surveillance
 
-Censorship - Fahrenheit 451
+Fahrenheit 451
+
+## THEME - Totalitarianism and the loss of democracy
+
+
+
 
 
 

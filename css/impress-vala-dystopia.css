@@ -574,30 +574,53 @@ h3 {
   background: url(../img/percentage-graduates-high-income.png) no-repeat center bottom fixed;
 }
 
+#AdultLiteracy {
+  background: url(../img/adult-literacy-rates-2011-2012.png) no-repeat center center fixed;
+}
+
 #DigitalInclusion {
   background: url(../img/digital-inclusion-male-female.png) no-repeat center center fixed;
 }
 
-
-#ConcentricCircles {
-  background: url(../img/concentric-circles.png) no-repeat center center fixed;
+#DiamondAge {
+  background: url(../img/neal-stephenson-diamond-age.jpg) no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
 }
 
-#ClusteredCircles {
-  background: url(../img/clustered-circles.png) no-repeat center center fixed;
+#HAL {
+  background: url(../img/hal-space-odyssey.jpg) no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  background-color: #000;
 }
 
-#StickyForceDirected {
-  background: url(../img/force-directed.png) no-repeat center center fixed;
+#ExMachina {
+  background: url(../img/ex-machina.jpg) no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  background-color: #000;
 }
 
-#StickyForceDirected2 {
-  background: url(../img/sticky-force-directed-2.png) no-repeat bottom right fixed;
+#VoiceAssistant {
+  background: url(../img/sexism-voice-assistant.png) no-repeat center center fixed;
 }
 
-#FinalVisualisation {
-  background: url(../img/GEEmap-ecosystem-map3.png) no-repeat center center fixed;
+#SexismSiliconValley {
+  background: url(../img/sexism-tech-industry-usatoday.png) no-repeat center bottom fixed;
 }
+
+
+
+
+
+
 
 
 .list-items li {
