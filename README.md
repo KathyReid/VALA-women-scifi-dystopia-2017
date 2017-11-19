@@ -1,8 +1,6 @@
-GEEmap - visualising Geelong's entrepreneurial ecosystem
+Women, dystopia, science fiction and you
 ========================================================
 
-A presentation to the Joining the Dots symposium, Walter and Eliza Hall Institute, Melbourne, Australia
+A presentation to VALA
 
-18 August 2017
-
-https://geemap.com.au
+22 November 2017
