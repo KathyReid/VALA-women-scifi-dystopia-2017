@@ -53,9 +53,9 @@ As these technologies and themes increasingly evolve from science _fiction_ to s
 
 Down the rabbit hole we go ...
 
-## THEME - Fertility
+## THEME - Reproduction
 
-Fertility and reproduction are cornerstones of science fiction literature.
+Reproduction is a cornerstone theme of science fiction literature.
 
 SLIDE: Children of Men
 
@@ -65,7 +65,7 @@ The spine-chilling series based on Margaret ATWOOD's 'Handmaid's Tale' via Hulu 
 
 SO WHAT DOES THIS ALL HAVE TO DO WITH WOMEN AND TECHNOLOGY?
 
-In Australia, our national fertility rate is hovering about the 1.8 mark - that's 1.8 babies per woman. It's much less than the population replacement rate. There are many reasons for this - women are partnering later in life, necessitating the use of reproductive technology. The roles of women have changed over the decades - it's no longer a societal expectation that a woman's role is _just_ to raise a family.
+In Australia, our national reproduction rate is hovering about the 1.8 mark - that's 1.8 babies per woman. It's much less than the population replacement rate. There are many reasons for this - women are partnering later in life, necessitating the use of assistive reproductive technology. The roles of women have changed over the decades - it's no longer a societal expectation that a woman's role is _just_ to raise a family.
 
 Importantly though, economic factors are a consideration.
 
@@ -95,11 +95,11 @@ In this 2015 report by the Office of the Chief Scientist, the gender pay gap in 
 
 So of course all of this contributes to the theme of fertility, and goes some way to explain why women are having fewer children, or not bearing children at all.
 
-### Fertility - what can we do about it?
+### Reproduction - what can we do about it?
 
 So what choices do we have here?
 
-* If women choose to have children - and we need to respect that choice - we need to better understand the flexibility that will assist in in balancing both work and caring commitments. There's no reason in this day and age of work anywhere - perhaps we should call that work everywhere - that job duties can't be made more flexible. And that flexibility should only become easier over time as technologies like videoconferencing, instant messaging, web conferencing and so on become more mature.
+* If women choose to have children - and we need to respect that choice - and in particular women who may not have a lot of choice - we need to better understand the flexibility that will assist in in balancing both work and caring commitments. There's no reason in this day and age of work anywhere - perhaps we should call that work everywhere - that job duties can't be made more flexible. And that flexibility should only become easier over time as technologies like videoconferencing, instant messaging, web conferencing and so on become more mature.
 
 SLIDE: Move away from working at home at big technology companies
 
@@ -152,13 +152,15 @@ But what happens when the Library isn't open? What happens on the evenings or on
 
 But **access** isn't enough - people also need to be equipped with the **ability** to use digital technology. And I'm incredibly heartened by libraries partnering with groups like Code Camp to deliver programming training to children during school holidays - although again this is a paid activity and due to financial circumstances, some kids won't be able to participate. Perhaps those kids instead can use the free library internet to use platforms like Khan Academy and Codeacademy instead.
 
-But again, it's another step away from dystopia.
+The role that VALA plays, with events like #VALATechCamp - also serve to help break down the digital divide - by challenging notions that "technology isn't for me", or "coding is too hard for me to learn". Every time we challenge those assumptions becomes an inflection point, another small step on a longer journey.
+
+A journey _away_ from dystopia.
 
 So, what other themes appear in science fiction and how do they relate to women in IT?
 
-## THEME - Robots and artificial intelligence
+## THEME - Artificial intelligence
 
-SLIDE: Header - Robots and artificial intelligence
+SLIDE: Header - Artificial intelligence
 
 Related to digital inclusion, and provision of education, I'd like to take us into the theme of artificial intelligence and robots by spending a few moments talking about one of my favourite books - a book that served when I was younger - to inspire me to a career in technology.
 
@@ -168,9 +170,9 @@ In Neal Stephenson's Diamond Age, society is distinctly stratified. Upper class 
 
 But wait - that sounds almost Utopian! Isn't this a talk about **dystopia**?
 
-Well, the AI-nurturing-the-little-girl part is pretty heartening, but it's set against a backdrop of feudal warfare, stark social inequities and drug-resistant tuberculosis is a leading cause of death - so don't worry, it still ticks the "dystopia" boxes!
+Well, the AI-nurturing-the-little-girl part is pretty heartening, but it's set against a backdrop of feudal warfare, stark social inequities and drug-resistant tuberculosis - so don't worry, it still ticks the "dystopia" boxes!
 
-In 'The Diamond Age', we see artificial intelligence used as a force for good. But science fiction doesn't always represent AI in a positive light.
+In 'The Diamond Age', we see artificial intelligence used as a force for good - across social classes and for the advancement of humanity. But science fiction doesn't always represent AI in a positive light.
 
 SLIDE: Kubrick, HAL 2001 A Space Odyssey
 
@@ -200,9 +202,9 @@ Something to do with not being able to work from home perhaps?
 
 SLIDE: Nomadic Thinkers - the bro-working space
 
-But perhaps I'm being unfair. I mean, with women making up between a quarter to a third of the IT workforce, I'm sure there are some men who feel very vulnerable and threatened by such an overwhelming majority. Like these bro-dudes from Brisbane - maybe they had too much sun, who knows - who wanted to start a men-only co-work space. That's right, a **bro-work space**. Because if it's one thing women need in technology and startups, it's more exclusively male places that they're forbidden from.
+But perhaps I'm being unfair. I mean, with women making up between a a fifth to around a quarter of the technology workfoce, I'm sure there are some men who feel very vulnerable and threatened by such an overwhelming majority. Like these bro-dudes from Brisbane - maybe they had too much sun, who knows - who wanted to start a men-only co-work space. That's right, a **bro-work space**. Because if it's one thing women need in technology and startups, it's more exclusively male places that they're forbidden from.
 
-Interesting footnote to this story - it was later revealed that these guys had a very, how do I say it, slightly off kilter worldview when blog posts showed them referring to females as "toxic women". Oh, buckle up sunshine, I'm just starting to get my toxic on :-)
+Interesting footnote to this story - it was later revealed that these guys had a very, how do I say it, slightly off kilter worldview when blog posts showed them referring to females as "toxic women". Oh, buckle up sunshine, I'm just starting!
 
 _Remember - dystopia is always closer than we imagine it to be_
 
@@ -219,7 +221,7 @@ When neural networks - the data structures that artificial intelligences learn f
 
 So if you then use that dataset for _predictive_ purposes, you're perpetuating those biases.
 
-### AI and Robots - what can we do to change?
+### Artificial intelligence - what can we do to change?
 
 So what choices do we have here?
 
@@ -227,9 +229,11 @@ Firstly, I'd like to see a lot more gender diversity in how artificial intellige
 
 Secondly, and I think more importantly - we need to consider what datasets we're training our artificial intelligences on. We need to critically question and evaluate how artificial intelligences are being trained - and what they're being trained on. And if we had better diversity in the industry - more women and other genders - better racial diversity - that will be more likely to happen.
 
-As Librarians and information professionals, you all have a critical role to play here. Your knowledge of datasets, of metadata classifications, taxonomies, of research and specalist areas - can help inform how that data and information is ingested by AIs.
+As Librarians and information professionals, you all have a critical role to play here. Your knowledge of datasets, of metadata classifications, taxonomies, of research and specalist areas - can help inform how that data and information is ingested by AI - what _corpus_ of knowledge they are trained on.
 
-## Robots
+## THEME - Robots
+
+SLIDE - Header - Robots
 
 Robots have been a mainstay of science fiction for over two centuries, from Mary Wollstonecraft Shelley's 'Frankenstein', Fritz LANG's 'Maria' of 'Metropolis' fame to present-day counterparts - the replicants in 'Bladerunner' and the hosts in 'West World'.
 
@@ -239,7 +243,9 @@ And again we see certain trends that affect women. If robots are given a gender,
 
 But the message is clear - if a robot has a gender, and she's female, her role is to serve others - usually men.
 
-Contrast this with savvy and smart personality of the robots TARS and CASE in 'Interstellar', the affable and goofy Johnny 5 in 'Short Circuit', the sarcastic and alcoholic Bender of 'Futurama', the laughable cowardice of C3-PO. These are much more complete characters - characters with depth, and personality - much more than functional ornaments.
+SLIDE - Johnny 5
+
+Contrast this with savvy and smart personality of the robots TARS and CASE in 'Interstellar', the affable and goofy Johnny 5 in 'Short Circuit', the sarcastic - and alcoholic - Bender of 'Futurama', the laughable cowardice of C3-PO. These are much more complete characters - characters with depth, and personality - much more than functional ornaments.
 
 And this again mirrors a theme that's relevant to women in technology.
 
@@ -253,35 +259,89 @@ Here, we need to consider how women are represented in technology - and critical
 
 Again, as Librarians and information professionals, you all have a critical role to play here. Why? Because you work in technology, and you will be role models for the clients and patrons that you meet.
 
-"Look Mummy at the lady who's using the computer to search information for us!"
-"Look Daddy at the lady who's helping me use the computer to draw"
+* "Look Mummy at the lady who's using the computer to search information for us!"
+* "Look Daddy at the lady who's helping me use the computer to draw"
+* "I want to be like her when I grow up"
 
+Being visible as technologists, embracing that the work you do *is* technology work - cataloguing, classification, information brokerage and retrieval - these are *technical* activities. All of these buffer against a dystopia where female robots are two-dimensional machines intended to serve.
+
+## THEME - Idolatry and celebrity
+
+If women in technology are not as visible as men, what happens in a culture that's obsessed with fame, and celebrity?
+
+SLIDE: Idoru
+
+Well, any discussion of science fiction would be conspicuously incomplete without a mention of William GIBSON. His 1996 book 'Idoru' relates the tale of Rei Toei, an artificial intelligence idol - or _Idoru_, who changes her demeanour and appearance based on the preferences and desires of her audience. She changes who she is based on popular feedback.
+
+Neal STEPHENSON's book 'Interface' deals with a mentally incapacitated President (PAUSE), crippled by stroke, who receives an implant that allows him to be controlled by external forces - synchronizing his speeches to the audiences he's addressing, massaging his phrases to meet with better approval and popularity. It's fiction, I swear.
+
+How many of us have seen politicians, celebrities and other public figures alter their beliefs, their core principles on the altar of popularity?
+
+_Dystopia is always closer than we think_
+
+There is again a parallel with women in technology. If women are encouraged from a young age to be pretty, to be popular, to have good hair, and great nails, and to have a certain body shape, instead of say, having good grades, and believing that yes, I *am* good at maths, then we're going to have trouble attracting women into technology - because it's not seen as 'chic' or 'for me'.
+
+But what does it mean when our young women are idolizing celebrities such as Kim Kardassian or Lindsay Lohan or Britney Spears? Can't women in technology be seen as role models as well?
+
+SLIDE: Lisbeth
+
+We've started to see a shift towards this in recent years in both literature and film. Stig LARSSON's 'Girl in the Dragon Tatoo' gave us the unstoppable Lisbeth Salander - and even though she is assaulted, hunted and isolated, she prevails against all her enemies. The WACHOWSKI sisters gave us the formidable Trinity, portrayed by Carrie-Ann Moss, in the Matrix trilogy.
+
+SLIDE: Millie Dresselhaus
+
+And even General Electric picked up on this trend, imagining what it would be like if the world idolized scientists, using the late Professor Millie Dresselhaus as a celebrity in their #BalanceTheEquation campaign.
+
+### What can we do - Idolatry
+
+So please - give young women role models to look up to - showcase women who work with technology. Make being good at maths and science and computers as popular and socially valued as being good at sports.
+
+And where better to do that than libraries? The hangouts - the refuge -  of the nerdy, the geeky, the cerebral. How do we make it as cool to hang out at the library as it is to go to the movies, or to go to a Selena Gomez concert?
+
+"Where do you want to hang out today? The mall?"
+
+"Yeah, nah, let's go to the library instead - it's cooler. "
 
 ## THEME - Censorship and mass surveillance
 
-Fahrenheit 451
-1984
-Robodebt
+SLIDE: Header - Censorship and mass surveillance
 
-## Idolatry and celebrity
+The final theme I'd like to explore this evening is that of censorship and mass surveillance. _And hello ASIO if you're watching_.
 
-William Gibson's Idoru
-Rei Toei
-レートーイー
-An artificial intelligence , who changes her demeanour and appearance based on the preferences and desires of her audience.
+Again, this theme has been a mainstay of science fiction for decades. Ray BRADBURY's Fahrenheit 451 explored a world where books are banned. George ORWELL's 1984 terrified us with Big Brother and doublethink. Dan Brown's 'Digital Fortress' weaved a tale of cryptography and secret mass surveillance and the lengths people will go to to protect their secrets.
 
-There are parallels here with idolatry of celebrities such as Kim Kardassian
+Again, science fiction was reflected in science fact as the revelations of Chelsea Manning and Edward Snowden cast doubt on how surveillance technologies were being used by governments to impinge upon civil liberties.
 
-GE flipped this on its head with their #BalanceTheEquation campaign
-Milie Dresselhaus
-https://www.youtube.com/watch?v=sQ6_fOX7ITQ
-"What if we lived in a world like that?"
+SLIDE: Robodebt
+
+In Germany, only this week, a brand of children's smart watch was banned and removed from sale because of its surveillance features - parents were able to tune in and listen to their children being taught in class.
+
+Somewhat paradoxically, we've seen the removal of government open data sets - data produced by government departments and used by citizens both for transparency and to build services on top of - such as the removal of scientific open data sets under the Trump administration.
+
+Closer to home, the scandal caused when Centrelink started doing automated data matching with the Australian Tax Office to identify overpayments earned the nickname 'robodebt'. Imagine what might happen if organisations decide to share data between say phone records and wearable or implantable devices. Will you be charged a higher Medicare levy if you don't walk 10k steps a day? Don't laugh - insurance companies are already starting down this road.
+
+We're already seeing the emergence of something called _personalised pricing_ - where online vendors used data they've gathered about you to tailor prices to what they think you might be willing to pay. Or determine which geographical areas they will actually service. It will be interesting indeed to see where Amazon ships to when its Melbourne store opens at the end of this month.
+
+_Dystopia is always closer than we think_
+
+So how does this relate to Women in Technology?
+
+Women are simply more vulnerable. We're more likely to be reliant on Centrelink payments for survival - or the survival of our children. We're at risk if a former or current partner uses surveillance technologies to impinge our freedom - for instance if we're exiting a violent relationship. We're more likely to be blackmailed or bullied if intimate images are shared with a partner. Women already pay a "pink tax" on many consumer goods - and the advent of personalised pricing I suspect this will continue
+
+SLIDE: backlit keyboard, implying hackers
+
+All of us need to be more aware of privacy, and practice good data hygiene, sharing only what we're comfortable with online. And again, libraries and librarians have a key role to play in this. We're starting to see for instance, events like Cryptoparties be held in libraries - with libraries providing a key education role - again providing digital inclusion services.
+
+Moreover, libraries and librarians have a role to play as organisations seek to censor information and data - whether that be the suppression of truth in the media - or the removal of open data sets. You provide a discovery layer for the truth - enabling people to validate sources, find alternate data and actively search for alternate viewpoints.
 
 ## Conclusion
 
-In conclusion, we've seen throughout this talk that as science fiction increasingly becomes science fact, that dystopia is not relegated to the dusty pages of a tome, but is an ever-present danger. Dystopia is always closer than you think.
+SLIDE - Header - conclusion
 
-Yet, there are many things we can do to keep dystopia at bay, particularly where that dystopia involves the under-representatin or under-valuing of women.
+In conclusion, we've seen throughout this talk that as science fiction increasingly becomes science fact, that dystopia is not relegated to the dusty pages of a tome, but is an ever-present danger.
+
+_Dystopia is always closer than you think._
+
+Yet, there are many things we can do to keep dystopia at bay, particularly where that dystopia involves the under-representation or under-valueing of women. We need to see more women represented in technology at every stage of the pipeline, and design systems and structures which allows women to be valued and to participate equally.
 
 As we've seen, Librarians and information professionals sit as keepers of the truth, partners in educating the next generation, discoverers of data on which AIs *should* be trained, custodians of artefacts that belie and document our history - you stand as the vanguard against dystopia.
 

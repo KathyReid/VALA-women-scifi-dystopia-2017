@@ -628,11 +628,45 @@ h3 {
   background: url(../img/robot-hotel.jpg) no-repeat center bottom fixed;
 }
 
+#Johnny5 {
+  background: url(../img/johnny-5.jpg) no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
 
+#Idoru {
+  background: url(../img/idoru.jpg) no-repeat right bottom fixed;
+}
 
+#Lisbeth {
+  background: url(../img/lisbeth-salander.jpg) no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
 
+#Millie {
+  background: url(../img/millie-dresselhaus.jpg) no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
 
+#Robodebt {
+  background: url(../img/robodebt.png) no-repeat center bottom fixed;
+}
 
+#Hackers {
+  background: url(../img/hackers.jpg) no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
 
 
 
@@ -662,47 +696,4 @@ h3 {
 
 .list-items, .list-items-small {
   list-style: square outside;
-}
-
-
-.csl-entry {
-  font-size: 60%;
-  font-weight: 100;
-  line-height: 120%;
-  padding: 10px 0 5px 0;
-  border-bottom: 1px solid white;
-}
-
-.footerLogo {
-  padding: 10px 10px 10px 10px;
-  margin-top: 20px;
-}
-
-
-.AccessibleMarkets {
-  color: #F49121;
-}
-.TalentandSkills {
-  color: #0B6A38;
-}
-.Funding {
-  color: #8DC940;
-}
-.NetworksandCommunity {
-  color: #27AAE1;
-}
-.Civic {
-  color: #2B328F;
-}
-.Support {
-  color: #9C0B62;
-}
-.Learning {
-  color: #E90077;
-}
-.RegionalCulture {
-  color: #8E138E;
-}
-.Facilities {
-  color: #ED552A;
 }
