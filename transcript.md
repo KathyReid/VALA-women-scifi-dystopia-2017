@@ -344,10 +344,10 @@ _Dystopia is always closer than you think._
 
 Yet, there are many things we can do to keep dystopia at bay, particularly where that dystopia involves the under-representation or under-valueing of women. We need to see more women represented in technology at every stage of the pipeline, and design systems and structures which allows women to be valued and to participate equally.
 
-As we've seen, Librarians and information professionals sit as keepers of the truth, partners in educating the next generation, discoverers of data on which AIs *should* be trained, custodians of artefacts that belie and document our history - you stand as the vanguard against dystopia.
+As we've seen, Librarians and information professionals sit as keepers of the truth, partners in educating the next generation, discoverers of data on which AIs *should* be trained, and with the ability to help people discern fact from fiction.
 
 You buffer the digitally disadvantaged from an era where access to services, to information and to resources is brokered entirely online -requiring new literacies to navigate.
 
-To paraphrase the words of perhaps the most famous science fiction princess of all, I say to you:
+In many ways, libraries, and librarians, are the heroes of the next chapter.
 
-"Save us, librarians. You're our only hope."
+Thank you very much. 
