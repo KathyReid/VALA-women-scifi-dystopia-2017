@@ -30,7 +30,7 @@ Some of you may have imagined the misogynist theocracy of Gilead - from Margaret
 
 BUT HOW MANY OF YOU IMAGINED SCENES CLOSER TO HOME?
 
-Did you perhaps visualise Trump's America - where the reproductive rights of women are increasingly scrutinised and legislated? Perhaps you dreamed of the radioactive wasteland surrounding Chernobyl, and the strontium-90 found in the bones of those who inhabit it. The desolation of Fukinowa, and the irradiated sealife washing up on its shores.
+Did you perhaps visualise Trump's America - where the reproductive rights of women are increasingly scrutinised and legislated? Perhaps you dreamed of the radioactive wasteland surrounding Chernobyl, and the strontium-90 found in the bones of those who inhabit it. The desolation of Fukushima, and the irradiated sealife washing up on its shores.
 
 Perhaps you imagined governments that use facial recognition not just to track crime, but for political purposes. Wide scale data matching between Centrelink and the Australian Tax Office - used *not* for proactive purposes of identifying and protecting the vulnerable but as a pejorative measure against those who are largely reliant on social welfare - especially women.
 
@@ -350,4 +350,4 @@ You buffer the digitally disadvantaged from an era where access to services, to 
 
 In many ways, libraries, and librarians, are the heroes of the next chapter.
 
-Thank you very much. 
+Thank you very much.

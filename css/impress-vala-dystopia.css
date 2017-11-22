@@ -656,6 +656,14 @@ h3 {
   background-size: cover;
 }
 
+#Lego {
+  background: url(../img/lego-women-of-nasa.jpg) no-repeat center top fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
 #Robodebt {
   background: url(../img/robodebt.png) no-repeat center bottom fixed;
 }
